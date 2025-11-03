@@ -1,6 +1,11 @@
 // for Production purpose
 // export const serverUrl = "https://dm-abackend-9uwv.vercel.app"; // AWS
-export const serverUrl = "https://server.dmassociates.in"; // AWS
+// export const serverUrl = "https://server.dmassociates.in"; // AWS
+// export const clientUrl = "https://dmassociates.in";
+// export const hostname = "dmassociates.in";
+
+// Vercel
+export const serverUrl = "https://dm-abackend.vercel.app";
 export const clientUrl = "https://dmassociates.in";
 export const hostname = "dmassociates.in";
 
