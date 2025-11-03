@@ -7,7 +7,7 @@
 // Vercel
 export const serverUrl = "https://dm-abackend.vercel.app";
 export const clientUrl = "https://dmassociates.in";
-export const hostname = "dmassociates.in";
+export const hostname = "dmassociates.in"; 
 
 
 // for Development purpose
